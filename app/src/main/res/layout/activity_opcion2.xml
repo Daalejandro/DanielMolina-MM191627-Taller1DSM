@@ -49,7 +49,7 @@
         android:layout_marginTop="108dp"
         android:ems="10"
         android:hint="Ingrese el salario"
-        android:inputType="text"
+        android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

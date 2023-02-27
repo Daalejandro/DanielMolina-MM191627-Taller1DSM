@@ -9,15 +9,15 @@
         app:showAsAction="ifRoom"
         />
     <item android:id="@+id/opcion1"
-        android:title="Opción 1"
+        android:title="Promedio de 4 numeros"
         app:showAsAction="never"
         />
     <item android:id="@+id/opcion2"
-        android:title="Opción 2"
+        android:title="Calculadora de deducciones "
         app:showAsAction="never"
         />
     <item android:id="@+id/opcion3"
-        android:title="Opción 3"
+        android:title="Calculadora (4) operaciones basicas"
         app:showAsAction="never"
         />
 
